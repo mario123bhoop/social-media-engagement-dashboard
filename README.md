@@ -10,7 +10,7 @@ Dashboard interaktif untuk mengeksplorasi interaksi dan sentimen postingan media
 ## 1. Tautan penting
 
 - **Live Dashboard:** https://social-media-engagement-dashboard-4jzfwqzruxgnajdasuhauv.streamlit.app/
-- **Repositori GitHub:** 
+- **Repositori GitHub:** https://github.com/mario123bhoop/social-media-engagement-dashboard/blob/main/README.md
 - **Sumber dataset Kaggle:** https://www.kaggle.com/datasets/subashmaster0411/social-media-engagement-dataset
 
 > Cantumkan tautan Kaggle di atas sebagai sumber asli dataset. Jika halaman Kaggle tidak dapat diakses, periksa kembali halaman dataset sebelum pengumpulan. Jangan mengganti tautan ini dengan tautan repository sendiri.
