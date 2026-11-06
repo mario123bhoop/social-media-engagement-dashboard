@@ -2,15 +2,15 @@
 
 **Mata Kuliah:** Visualisasi Data  
 **Program Studi:** Sistem Informasi  
-**Nama:** [Isi Nama Lengkap]  
-**NPM:** [Isi NPM]
+**Nama:** Andriqo Mario Imanuel Manopo  
+**NPM:** 241051020
 
 Dashboard interaktif untuk mengeksplorasi interaksi dan sentimen postingan media sosial menggunakan Python, Pandas, Plotly, dan Streamlit.
 
 ## 1. Tautan penting
 
-- **Live Dashboard:** [Isi URL Streamlit Community Cloud setelah deployment]
-- **Repositori GitHub:** [Isi URL repository GitHub]
+- **Live Dashboard:** https://social-media-engagement-dashboard-4jzfwqzruxgnajdasuhauv.streamlit.app/
+- **Repositori GitHub:** 
 - **Sumber dataset Kaggle:** https://www.kaggle.com/datasets/subashmaster0411/social-media-engagement-dataset
 
 > Cantumkan tautan Kaggle di atas sebagai sumber asli dataset. Jika halaman Kaggle tidak dapat diakses, periksa kembali halaman dataset sebelum pengumpulan. Jangan mengganti tautan ini dengan tautan repository sendiri.
